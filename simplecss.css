@@ -1,0 +1,46 @@
+body {
+    background: black;
+    color: white;
+}
+
+a {
+    color: yellow;
+}
+
+li {
+    background: black;
+    padding: 2px;
+    color: white;
+    border-bottom: 1px dashed;
+}
+
+li a {
+    color: black;
+    background: white;
+    padding: 1px;
+    margin: 2px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background: red;
+}
+
+body h2 {
+    color: white;
+}
+
+body p {
+    color: white;
+    padding: 3px;
+}
+
+body small {
+    color: rgb(51,51,51);
+}
+
+td {
+    font-size: 10px;
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+}
